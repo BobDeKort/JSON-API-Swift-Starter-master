@@ -39,7 +39,6 @@ class ViewController: UIViewController {
                     // Do what you need to with JSON here!
                     // The rest is all boiler plate code you'll use for API requests
                     
-                    
                 }
             case .Failure(let error):
                 print(error)
